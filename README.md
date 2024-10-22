@@ -1,6 +1,6 @@
 # Portfolio Improvements
 
-I recently made significant updates to my portfolio to enhance its performance, accessibility, and SEO. Here are the key changes:
+I recently made significant Refactored HTML/CSS: Removed unnecessary tags and styles for cleaner code to enhance its performance, accessibility, and SEO. Here are the key changes:
 
 ## Code Optimization:
 
